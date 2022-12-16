@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+    <line>
+      <![CDATA[Click start now button[[ChromeDriver: chrome on WINDOWS (a18faec997bd1dcf0ada6bceee6140f7)] -> xpath: //body[1]/div[3]/div[1]/main[1]/div[2]/div[1]/article[1]/section[1]/a[1]]]]>
+    </line>
+    <line>
+      <![CDATA[Selecting Nationality from dropdown]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on next step button]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on reason tourism]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on continue button]]>
+    </line>
+    <line>
+      <![CDATA[Expected message to compare]]>
+    </line>
+    <line>
+      <![CDATA[Getting result message]]>
+    </line>
+    <line>
+      <![CDATA[Click start now button[[ChromeDriver: chrome on WINDOWS (ef0f51841681b9d8807662877ffb2eb1)] -> xpath: //body[1]/div[3]/div[1]/main[1]/div[2]/div[1]/article[1]/section[1]/a[1]]]]>
+    </line>
+    <line>
+      <![CDATA[Selecting Nationality from dropdown]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on next step button]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on reason tourism]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on continue button]]>
+    </line>
+    <line>
+      <![CDATA[Expected message to compare]]>
+    </line>
+    <line>
+      <![CDATA[Getting result message]]>
+    </line>
+    <line>
+      <![CDATA[Click start now button[[ChromeDriver: chrome on WINDOWS (d5b024b13cc0f633040267a034b7d43c)] -> xpath: //body[1]/div[3]/div[1]/main[1]/div[2]/div[1]/article[1]/section[1]/a[1]]]]>
+    </line>
+    <line>
+      <![CDATA[Selecting Nationality from dropdown]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on next step button]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on reason tourism]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on continue button]]>
+    </line>
+    <line>
+      <![CDATA[Expected message to compare]]>
+    </line>
+    <line>
+      <![CDATA[Getting result message]]>
+    </line>
+  </reporter-output>
+  <suite name="testsuite" duration-ms="26944" started-at="2022-12-15T20:13:33 GMT" finished-at="2022-12-15T20:14:00 GMT">
+    <groups>
+      <group name="regression">
+        <method signature="VisaConfirmationTest.anAustralianCominToUKForTourism()[pri:1, instance:gov.uk.check.visa.testsuite.VisaConfirmationTest@4524411f]" name="anAustralianCominToUKForTourism" class="gov.uk.check.visa.testsuite.VisaConfirmationTest"/>
+        <method signature="VisaConfirmationTest.aChileanComingToTheUKForWorkAndPlansOnStayingForLongerThanSixMonths()[pri:2, instance:gov.uk.check.visa.testsuite.VisaConfirmationTest@4524411f]" name="aChileanComingToTheUKForWorkAndPlansOnStayingForLongerThanSixMonths" class="gov.uk.check.visa.testsuite.VisaConfirmationTest"/>
+        <method signature="VisaConfirmationTest.aColumbianNationalComingToTheUKToJoinAPartnerForALongStayTheyDoHaveAnArticle10Or20Card()[pri:3, instance:gov.uk.check.visa.testsuite.VisaConfirmationTest@4524411f]" name="aColumbianNationalComingToTheUKToJoinAPartnerForALongStayTheyDoHaveAnArticle10Or20Card" class="gov.uk.check.visa.testsuite.VisaConfirmationTest"/>
+      </group> <!-- regression -->
+      <group name="smoke">
+        <method signature="VisaConfirmationTest.aChileanComingToTheUKForWorkAndPlansOnStayingForLongerThanSixMonths()[pri:2, instance:gov.uk.check.visa.testsuite.VisaConfirmationTest@4524411f]" name="aChileanComingToTheUKForWorkAndPlansOnStayingForLongerThanSixMonths" class="gov.uk.check.visa.testsuite.VisaConfirmationTest"/>
+      </group> <!-- smoke -->
+      <group name="sanity">
+        <method signature="VisaConfirmationTest.anAustralianCominToUKForTourism()[pri:1, instance:gov.uk.check.visa.testsuite.VisaConfirmationTest@4524411f]" name="anAustralianCominToUKForTourism" class="gov.uk.check.visa.testsuite.VisaConfirmationTest"/>
+      </group> <!-- sanity -->
+    </groups>
+    <test name="Login Test" duration-ms="26944" started-at="2022-12-15T20:13:33 GMT" finished-at="2022-12-15T20:14:00 GMT">
+      <class name="gov.uk.check.visa.testsuite.VisaConfirmationTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:gov.uk.check.visa.testsuite.VisaConfirmationTest@4524411f]" name="setUp" is-config="true" duration-ms="10976" started-at="2022-12-15T20:13:35 GMT" finished-at="2022-12-15T20:13:46 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="inIt()[pri:0, instance:gov.uk.check.visa.testsuite.VisaConfirmationTest@4524411f]" name="inIt" is-config="true" duration-ms="168" started-at="2022-12-15T20:13:46 GMT" finished-at="2022-12-15T20:13:46 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inIt -->
+        <test-method status="PASS" signature="anAustralianCominToUKForTourism()[pri:1, instance:gov.uk.check.visa.testsuite.VisaConfirmationTest@4524411f]" name="anAustralianCominToUKForTourism" duration-ms="1628" started-at="2022-12-15T20:13:46 GMT" finished-at="2022-12-15T20:13:47 GMT">
+          <reporter-output>
+            <line>
+              <![CDATA[Click start now button[[ChromeDriver: chrome on WINDOWS (a18faec997bd1dcf0ada6bceee6140f7)] -> xpath: //body[1]/div[3]/div[1]/main[1]/div[2]/div[1]/article[1]/section[1]/a[1]]]]>
+            </line>
+            <line>
+              <![CDATA[Selecting Nationality from dropdown]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on next step button]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on reason tourism]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on continue button]]>
+            </line>
+            <line>
+              <![CDATA[Expected message to compare]]>
+            </line>
+            <line>
+              <![CDATA[Getting result message]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- anAustralianCominToUKForTourism -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:gov.uk.check.visa.testsuite.VisaConfirmationTest@4524411f]" name="tearDown" is-config="true" duration-ms="843" started-at="2022-12-15T20:13:47 GMT" finished-at="2022-12-15T20:13:48 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:gov.uk.check.visa.testsuite.VisaConfirmationTest@4524411f]" name="setUp" is-config="true" duration-ms="2853" started-at="2022-12-15T20:13:48 GMT" finished-at="2022-12-15T20:13:51 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="inIt()[pri:0, instance:gov.uk.check.visa.testsuite.VisaConfirmationTest@4524411f]" name="inIt" is-config="true" duration-ms="5" started-at="2022-12-15T20:13:51 GMT" finished-at="2022-12-15T20:13:51 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inIt -->
+        <test-method status="PASS" signature="aChileanComingToTheUKForWorkAndPlansOnStayingForLongerThanSixMonths()[pri:2, instance:gov.uk.check.visa.testsuite.VisaConfirmationTest@4524411f]" name="aChileanComingToTheUKForWorkAndPlansOnStayingForLongerThanSixMonths" duration-ms="2350" started-at="2022-12-15T20:13:51 GMT" finished-at="2022-12-15T20:13:53 GMT">
+          <reporter-output>
+            <line>
+              <![CDATA[Click start now button[[ChromeDriver: chrome on WINDOWS (ef0f51841681b9d8807662877ffb2eb1)] -> xpath: //body[1]/div[3]/div[1]/main[1]/div[2]/div[1]/article[1]/section[1]/a[1]]]]>
+            </line>
+            <line>
+              <![CDATA[Selecting Nationality from dropdown]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on next step button]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on reason tourism]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on continue button]]>
+            </line>
+            <line>
+              <![CDATA[Expected message to compare]]>
+            </line>
+            <line>
+              <![CDATA[Getting result message]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- aChileanComingToTheUKForWorkAndPlansOnStayingForLongerThanSixMonths -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:gov.uk.check.visa.testsuite.VisaConfirmationTest@4524411f]" name="tearDown" is-config="true" duration-ms="842" started-at="2022-12-15T20:13:53 GMT" finished-at="2022-12-15T20:13:54 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:gov.uk.check.visa.testsuite.VisaConfirmationTest@4524411f]" name="setUp" is-config="true" duration-ms="2901" started-at="2022-12-15T20:13:54 GMT" finished-at="2022-12-15T20:13:57 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="inIt()[pri:0, instance:gov.uk.check.visa.testsuite.VisaConfirmationTest@4524411f]" name="inIt" is-config="true" duration-ms="4" started-at="2022-12-15T20:13:57 GMT" finished-at="2022-12-15T20:13:57 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inIt -->
+        <test-method status="PASS" signature="aColumbianNationalComingToTheUKToJoinAPartnerForALongStayTheyDoHaveAnArticle10Or20Card()[pri:3, instance:gov.uk.check.visa.testsuite.VisaConfirmationTest@4524411f]" name="aColumbianNationalComingToTheUKToJoinAPartnerForALongStayTheyDoHaveAnArticle10Or20Card" duration-ms="2217" started-at="2022-12-15T20:13:57 GMT" finished-at="2022-12-15T20:13:59 GMT">
+          <reporter-output>
+            <line>
+              <![CDATA[Click start now button[[ChromeDriver: chrome on WINDOWS (d5b024b13cc0f633040267a034b7d43c)] -> xpath: //body[1]/div[3]/div[1]/main[1]/div[2]/div[1]/article[1]/section[1]/a[1]]]]>
+            </line>
+            <line>
+              <![CDATA[Selecting Nationality from dropdown]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on next step button]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on reason tourism]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on continue button]]>
+            </line>
+            <line>
+              <![CDATA[Expected message to compare]]>
+            </line>
+            <line>
+              <![CDATA[Getting result message]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- aColumbianNationalComingToTheUKToJoinAPartnerForALongStayTheyDoHaveAnArticle10Or20Card -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:gov.uk.check.visa.testsuite.VisaConfirmationTest@4524411f]" name="tearDown" is-config="true" duration-ms="820" started-at="2022-12-15T20:13:59 GMT" finished-at="2022-12-15T20:14:00 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- gov.uk.check.visa.testsuite.VisaConfirmationTest -->
+    </test> <!-- Login Test -->
+  </suite> <!-- testsuite -->
+</testng-results>
